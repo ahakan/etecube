@@ -17,8 +17,6 @@ cd without_rsa
 mkdir build && cd build
 cmake .. 
 make
-
-./client/client 8080 
 ```
 
 ## Usage
